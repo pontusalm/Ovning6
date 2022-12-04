@@ -1,0 +1,45 @@
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+    /* background-image: url('../images/sunset.JPEG'); */
+}
+
+/* header {
+    background-image: url('images/sunset.JPEG');
+    float:left; 
+    margin-left:15px;
+    clear:both;
+  } */
+
+  #mainheader {
+    height:150px;
+    width: 100%;
+    background-image: url("../images/sunset_header.JPEG");
+    /* background-color:darkgray; */
+    float: left;
+    margin-bottom: 20px;
+}
+
+#main {
+    clear: both;
+    text-align: center;
+    width: 95%;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#links {
+    text-align: center;
+}
+
+
+footer {
+    clear: both;
+     width: 100%;
+    background-image: url("../images/sunset.JPEG");
+    text-align: center;
+  }
+
